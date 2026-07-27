@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 548
 slug  : the-black-hole
-seal  : 98f3b2e8036f785af45ec1e2e3ffc6447e42a1fa55ab1e3c09474c976b7a4d1e
-prev  : 6f6272de48f67f968e8d795bf10c4d7f553f9cfd3ab0fd5f3004fa34c3558570
-link  : e6bf04507a54410d289b76e3a4df681a9f97b3579fcd36a0fc3a92025179d4d6
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 2bbfbb6a7f3910d4743f590c6b8c4ba1b43d7c8389d0ec725f8d651d70a6f01a
+prev  : 93243bed71d307771cc9b9bdb81a72fdb83fadd5219227c5f5275f73b219ecc2
+link  : 23fa84d914700b614414988cf7e55d9d3604399ba011ac2ca5b13ecabf311adc
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
